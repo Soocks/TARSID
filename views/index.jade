@@ -1,5 +1,9 @@
-extends layout
-
-block content
-  h1= title
-  p Welcome to #{title}
+doctype html
+html
+	head
+		title PIXI Tests
+	body(onload="init();")
+		div(align="center")
+			canvas#game-canvas(width="480", height="480")
+		script(src="javascripts/pixi.js")
+		script(src="javascripts/main.js")
