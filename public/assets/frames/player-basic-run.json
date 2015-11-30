@@ -1,0 +1,74 @@
+{
+	"frames": {
+		"run-up.png": {
+			"frame": {"x": 0, "y": 0, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 0, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-up-right.png": {
+			"frame": {"x": 0, "y": 71, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 71, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-right.png": {
+			"frame": {"x": 0, "y": 142, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 142, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-down-right.png": {
+			"frame": {"x": 0, "y": 213, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 213, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-down.png": {
+			"frame": {"x": 0, "y": 284, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 284, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-down-left.png": {
+			"frame": {"x": 0, "y": 355, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 355, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-left.png": {
+			"frame": {"x": 0, "y": 426, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 426, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		},
+		"run-up-left.png": {
+			"frame": {"x": 0, "y": 497, "w": 48, "h": 71},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x": 0, "y": 497, "w": 48, "h": 71},
+			"sourceSize": {"w": 48, "h": 71},
+			"pivot": {"x": 0.5, "y": 0.5}
+		}
+	},
+	"meta": {
+		"image": "player-basic-run.png",
+		"format": "RGBA8888",
+		"size": {"w":1056,"h":568},
+		"scale": "2"
+	}	
+}
